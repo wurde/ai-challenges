@@ -10,6 +10,10 @@ Researching narrow artificial intelligence.
 4. [Speech Recognition](./notebooks/speech-recognition.ipynb)
 5. [Speech Synthesis](./notebooks/speech-synthesis.ipynb)
 
+## References
+
+- https://en.wikipedia.org/wiki/Weak_AI
+
 ## License
 
 [MIT licensed](./LICENSE)
